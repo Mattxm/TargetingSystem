@@ -1,6 +1,6 @@
 # Targeting System
 
-Targeting System is designed for mouse + keyboard. Developed for Unreal Engine 4
+Targeting System is designed for mouse + keyboard. Targets are selected based on mouse position. The system prioritizes the moused-over target, then the closest target to the cursor. 
 
 ## Project Features
 * Target selection and lock-on
