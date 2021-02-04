@@ -15,3 +15,8 @@ Targeting System is designed for mouse + keyboard. Developed for Unreal Engine 4
 
 ## Sample
 * [Video](https://youtu.be/eAHFwqtRn1Y)
+
+## Dependencies
+* Unreal Engine Version 4.26
+* Water/Landmass Plugin
+(The TargetingSystem component does not require anything from 4.26)
