@@ -16,6 +16,6 @@ Targeting System is designed for mouse + keyboard. Targets are selected based on
 * [Video](https://youtu.be/eAHFwqtRn1Y)
 
 ## Dependencies
-* Unreal Engine Version 4.26
+* Unreal Engine Version 4.26 (The TargetingSystem component does not require anything from 4.26)
 * Water/Landmass Plugin
-(The TargetingSystem component does not require anything from 4.26)
+
